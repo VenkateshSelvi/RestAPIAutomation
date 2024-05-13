@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Google API" >
+    <test name="Library_API_Test">
+        <classes>
+            <!--<class name = "libraryapi.AddBook"></class>-->
+            <class name = "libraryapi.DeleteBook"></class>
+            <!--<class name = "libraryapi.GetBookByAuthor"></class>-->
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Google API" >
+    <test name="Google_API_Test">
+        <classes>
+            <class name = "googleapi.AddPlaceTest"></class>
+            <!--<class name = "googleapi.UpdatePlaceTest"></class>
+            <class name = "googleapi.DeletePlaceTest"></class>
+            <class name = "googleapi.GetPlaceTest"></class>-->
+        </classes>
+    </test>
+</suite>

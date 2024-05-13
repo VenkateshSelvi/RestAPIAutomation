@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "OAuth API" >
+    <test name="OAuth_API_Test">
+        <classes>
+            <class name = "OAuth.OAuthPractice"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Mock API" >
+    <test name="Mock_API_Test">
+        <classes>
+            <class name = "mockapi.MockAPITest"></class>
+        </classes>
+    </test>
+</suite>

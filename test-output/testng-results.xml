@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-13T19:32:19 IST" name="Google API" finished-at="2024-05-13T19:32:23 IST" duration-ms="3708">
+    <groups>
+    </groups>
+    <test started-at="2024-05-13T19:32:19 IST" name="Google_API_Test" finished-at="2024-05-13T19:32:23 IST" duration-ms="3708">
+      <class name="googleapi.AddPlaceTest">
+        <test-method signature="validateAddPlaceAPI()[pri:0, instance:googleapi.AddPlaceTest@4df828d7]" started-at="2024-05-13T19:32:19 IST" name="validateAddPlaceAPI" finished-at="2024-05-13T19:32:23 IST" duration-ms="3694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddPlaceAPI -->
+      </class> <!-- googleapi.AddPlaceTest -->
+    </test> <!-- Google_API_Test -->
+  </suite> <!-- Google API -->
+</testng-results>
